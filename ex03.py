@@ -19,4 +19,4 @@ else:
         if numero1 % 2 == 0:
             quantidadePar += 1
         numero1 += 1
-    print(f"A quantidade de numeros pares entre {num1} e {num2} é {quantidadePar}")
+    print(f"A quantidade de números pares entre {num1} e {num2} é {quantidadePar}")
